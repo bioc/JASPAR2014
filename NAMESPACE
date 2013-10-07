@@ -1,0 +1,7 @@
+import(methods)
+import(Biostrings)
+
+exportClasses(
+  JASPAR2014
+  )
+
