@@ -1,5 +1,5 @@
 Package: JASPAR2014
-Version: 0.99.2
+Version: 0.99.3
 Date: 2013-10-07
 Title: Data package for JASPAR
 Description: Data package for JASPAR 2014. To search this databases, please use the package TFBSTools.
